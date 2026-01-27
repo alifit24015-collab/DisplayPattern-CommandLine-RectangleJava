@@ -1,5 +1,5 @@
 # DisplayPattern
-###code:
+### code:
 ~~~
 class DisplayPattern {
     public static void main(String[] args) {
@@ -33,7 +33,7 @@ class CommandLine {
 ~~~
 
 # RectangleJava
-### copde:
+### code:
 ~~~
 import java.text.DecimalFormat;
 
